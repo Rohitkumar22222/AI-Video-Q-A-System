@@ -36,7 +36,7 @@ User Query → Similarity Search → Context → LLM → Answer
 ## 🛠️ Tech Stack
 
 - Python  
-- Ollama (Llama 3.2)  
+- Ollama (Llama3.2)  
 - Whisper (Speech-to-Text)  
 - Sentence Transformers (Embeddings)  
 - Joblib (Storage)  
@@ -58,7 +58,7 @@ main.py        # Main RAG pipeline
 ## ▶️ Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/Rohitkumar22222/AI-Video-Q-A-System.git  
+git clone https://github.com/Rohitkumar22222/AI-Video-Q-A-System.git 
 cd AI-Video-Q-A-System 
 
 ### 2. Install dependencies
