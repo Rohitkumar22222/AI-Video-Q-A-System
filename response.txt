@@ -1,0 +1,5 @@
+So you're looking for information on where Form is taught in this course.
+
+The topic of Forms is covered in Video 7. Specifically, you can find detailed explanations about forms and input tags starting from around 132 seconds into the video. They also touch upon the difference between get and post requests later in the video.
+
+I recommend checking out that video (Video 7) to learn more about how Forms are used in HTML.

@@ -1,0 +1,10 @@
+# Large files
+*.joblib
+
+# Generated data
+newjsons/
+unused/
+
+# Audio / temp
+*.mp3
+*.wav
